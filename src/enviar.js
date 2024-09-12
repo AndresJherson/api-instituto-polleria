@@ -1,8 +1,8 @@
 const data = {
-    dni: '87547814',
-    nombre: 'Ulises',
-    apellido: 'Lizandor',
-    direccion: 'confixcell',
+    dni: "87547814",
+    nombre: "Ulises",
+    apellido: "Lizandor",
+    direccion: "confixcell",
     celular: 51987458154,
     pedidos: [
         {
